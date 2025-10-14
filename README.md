@@ -86,10 +86,10 @@ I believe software should be both **functional and empathetic** — designed aro
 
 ## 🧩 Fun Facts
 
-- 🈶 I’m fluent in **Mandarin Chinese** (and love writing bilingual prompts like 「學中文很有趣！」)  
-- 🧭 I enjoy exploring **urban systems** — transit data, city accessibility, and maps fascinate me  
+- 🈶 I’m proficient in **Mandarin Chinese** (and love writing bilingual prompts like 「學中文很有趣！」)  
+- 🧭 I love fun facts that vary from Science to History
 - 🎮 I play indie survival and sandbox games (Valheim and RainWorld are top-tier)  
-- ☕ I write morning journal entries about ideas that might become projects someday  
+- ☕ I write poems about my feelings  
 
 ---
 
@@ -98,7 +98,7 @@ I believe software should be both **functional and empathetic** — designed aro
 🌐 [Portfolio Website](https://thealienseb.github.io) *(coming soon)*  
 💼 [LinkedIn](https://linkedin.com/in/sebastianramosnyc)  
 💻 [GitHub](https://github.com/TheAlienSeb)  
-✉️ [Email](mailto:Sebastian.ramos70@myhunter.cuny.edu)
+✉️ [Email](mailto:Sebastianramos5387@gmail.com)
 
 ---
 
