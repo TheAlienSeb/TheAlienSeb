@@ -18,7 +18,93 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+# 👋 Hey, I’m Sebastian Ramos
+
+🎓 **Computer Science & Chinese double major** at [Hunter College (CUNY)](https://hunter.cuny.edu/)  
+💡 Passionate about **AI-driven development**, **full-stack systems**, and **data-informed design**  
+🌏 Currently building tools that connect people, simplify workflows, and leverage language + technology together  
+
+---
+
+## 🧠 What I’m About
+
+I like to **build things that make other things easier to build** — from AI-powered educational tools to real-time data visualizations.  
+I believe software should be both **functional and empathetic** — designed around real human behavior and data, not just specs.
+
+- ⚙️ I’ve built **full-stack applications** using React, Next.js, Flask, SQLAlchemy, and Supabase  
+- 💬 I’m fluent in **Python, TypeScript, C++, SQL**, and proficient in **Mandarin Chinese** (中文 🇹🇼)  
+- 🚀 I’ve used **OpenAI’s API**, **Azure**, and **AWS** to power hackathon-winning prototypes  
+- 🧩 I enjoy bridging **data science** and **user-centric design** to create scalable impact  
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL · C++ · HTML/CSS  
+**Frameworks:** React · Next.js · Flask · Node.js/Express.js
+**Databases:** PostgreSQL · Supabase · Firebase · SQLite  
+**Tools:** GitHub Actions · Docker · AWS S3 · Azure · GCP · Figma  
+**AI:** OpenAI API · LangChain · Socket.IO · ChatGPT Plugins  
+
+---
+
+## 💼 What I’m Working On
+
+🔹 **[ClubMap](https://github.com/TheAlienSeb/ClubMap)** — Interactive campus event map using Next.js, DrizzleORM, and Mapbox  
+🔹 **wAIsted** — Chrome extension that measures AI token usage, built with React & TypeScript (🏆 1st place at HunterHacks 2025)  
+🔹 **Smart Save** — Budgeting app built with React Native, Firebase, and Lithic API for HackNYU 2025  
+🔹 **TailoredLearning** — AI quiz generator built with Flask + OpenAI API
+🔹 **We Detox** — MERN app connecting anonymous people with recovery communities and organizations through verified events  
+
+---
+
+## 🏆 Highlights
+
+- 🥈 **2nd Place (Advanced Category)** — MTA x Macaulay Datathon for Fair Fares NYC analysis  
+- 🏆 **Hackathon Veteran** — HackNYU, DivHacks, HackPrinceton, HunterHacks
+- 💬 **CUNY Tech Prep Data Science Fellow (2025–26)**  
+- 💼 **SEO Tech Fellow (2025)** and **Google SWE Mentorship Participant (2024–25)**  
+- 🎯 Member of **Hunter Daedalus CS Honors** and **Chinese Flagship Program**
+- 🎉 Event Coordinator for the **Taiwanese Student Association (TSA ✈️)** at Hunter College
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud Infrastructure (AWS, GCP, CI/CD automation)  
+- AI product integration using OpenAI + VectorDBs  
+
+---
+
+## 📈 My Goals
+
+- Build systems, infrastructure, and interfaces with a user centric design.
+- Join a team that values open-source, data-driven design, and real-world impact  
+- Blend **machine intelligence** with **human connection** in meaningful ways  
+
+---
+
+## 🧩 Fun Facts
+
+- 🈶 I’m fluent in **Mandarin Chinese** (and love writing bilingual prompts like 「學中文很有趣！」)  
+- 🧭 I enjoy exploring **urban systems** — transit data, city accessibility, and maps fascinate me  
+- 🎮 I play indie survival and sandbox games (Valheim and RainWorld are top-tier)  
+- ☕ I write morning journal entries about ideas that might become projects someday  
+
+---
+
+## 📫 Let’s Connect
+
+🌐 [Portfolio Website](https://thealienseb.github.io) *(coming soon)*  
+💼 [LinkedIn](https://linkedin.com/in/sebastianramosnyc)  
+💻 [GitHub](https://github.com/TheAlienSeb)  
+✉️ [Email](mailto:Sebastian.ramos70@myhunter.cuny.edu)
+
+---
+
+> “The best projects aren’t the most complex — they’re the most *useful.*”  
+> — Sebastian Ramos
+
 
 ###
 
